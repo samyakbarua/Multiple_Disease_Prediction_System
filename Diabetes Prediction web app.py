@@ -166,7 +166,7 @@ if selected == "Parkinsons Prediction":
         fo = st.text_input('Fo(Hz)')
 
     with col2:
-        fhi = st.text_input('MDVP:Fhi(Hz)')
+        fhi = st.text_input('MDVP_Fhi(Hz)')
 
     with col3:
         flo = st.text_input('MDVP:Flo(Hz)')
